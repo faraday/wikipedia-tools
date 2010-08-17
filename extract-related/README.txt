@@ -1,3 +1,9 @@
+Related Pair Extractor
+
+Scans Wikipedia article dump (XML), finds links from "See also", 
+"Related pages" sections, "Related articles" templates etc.
+and creates a CSV file using every article title and these related anchors.
+
 Sample usage:
 
 ENGLISH
